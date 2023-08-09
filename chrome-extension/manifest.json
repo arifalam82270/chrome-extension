@@ -1,0 +1,21 @@
+{
+    "name": "CricScore",
+    "version": "1.0.0",
+    "description": "Best extension for cricketscore",
+    "manifest_version":3,
+    "author": "arif alam",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "cricscore"
+         
+    },
+    "icons": {
+        
+        "128": "logo.png"
+    }
+    
+
+      
+        
+    }
+    
